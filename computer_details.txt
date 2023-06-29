@@ -1,0 +1,19 @@
+****Computer Information Portal****
+****Customer Information****
+Customer name : Shri
+Customer email : jdjdjdjdjd
+Customer phone number : 88888888
+****System Information****
+Date of Purchase  : 333333
+Number of System Purchased : 3
+Type (Laptop/Desktop)  : Laptop
+System Comapny name : jddjdjdj
+System Processor : kks
+System Ram : 90gb
+System Size of harddisk : 400
+Number of usb port : 5
+Number of hdmi port : 5
+Battery backup : 0hr
+****Contactperson details****
+Seller name : 
+Seller  email : ýa
